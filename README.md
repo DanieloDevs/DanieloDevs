@@ -15,15 +15,6 @@
 
 ### Proyectos en Proceso
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">"AthenaHome"</h3>
-      <div align="center">
-        <a href="https://athenahome.com.mx/" target"_blank">Da Clic Aqui</a>
-      </td>
-  </tr>
-</table>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
